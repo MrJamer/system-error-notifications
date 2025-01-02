@@ -1,0 +1,13 @@
+{
+    "email_settings": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "email": "your_email@gmail.com",
+        "password": "your_password",
+        "recipient_email": "recipient_email@gmail.com"
+    },
+    "logging_settings": {
+        "log_file": "system_errors.log",
+        "log_level": "ERROR"
+    }
+}

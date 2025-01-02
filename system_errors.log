@@ -1,0 +1,2 @@
+2025-01-02 19:00:11,379 - ERROR - Error occurred: division by zero
+2025-01-02 19:00:12,602 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-aac0f013900sm1815960266b.144 - gsmtp')
